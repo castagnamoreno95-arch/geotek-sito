@@ -1,0 +1,11 @@
+Questa cartella deve contenere:
+- logo.png (il logo reale, già in uso nel sito originale)
+- hero_construction.jpg (sostituire l'immagine generata con una FOTO REALE di un vostro cantiere/mezzo)
+
+Nessuna immagine binaria è stata rigenerata in questa revisione: riutilizzate i file
+originali del vostro progetto in questa cartella con questi stessi nomi.
+
+AGGIORNAMENTO: logo.png è stato sostituito con il logo reale fornito (ritagliato,
+rimossa la filigrana "00:20" presente nello screenshot originale). È incluso anche
+logo-transparent.png (sfondo trasparente) da usare se in futuro serve il logo su
+sfondi scuri senza il riquadro bianco.
