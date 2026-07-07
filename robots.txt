@@ -1,6 +1,0 @@
-User-agent: *
-Allow: /
-Disallow: /privacy.html
-Disallow: /cookie.html
-
-Sitemap: https://www.geotekpipeline.it/sitemap.xml
